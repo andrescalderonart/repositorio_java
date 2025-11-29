@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class conexion {
     private static String URL = "jdbc:mysql://mysql.railway.internal/railway?useSSL=true";
         private static String USER = "root";
-        private static String PASSWORD = "my_password";
+        private static String PASSWORD = "lnRtWcAScmyRhqngwSotphnSrCbjWUDh";
 
         public static Connection getConnection() {
             Connection conexion = null;
